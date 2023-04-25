@@ -13,3 +13,4 @@
 | 3 | Основные арифметические операции над целыми числами. Интерфейс с языками высокого уровня: операции деления, умножения и взятия остатка | [docx](semester_01/laboratory_3.docx) | [repo](https://github.com/PatriotRossii/assembly_laboratories_3) |
 | 4 | Основные арифметические операции над целыми числами. Интерфейс с языками высокого уровня: логические операции | [docx](semester_01/laboratory_4.docx) | [repo](https://github.com/PatriotRossii/assembly_laboratories_4) |
 | 5 | Основные операции сдвига над целыми числами. Интерфейс с языками высокого уровня | [docx](semester_01/laboratory_5.docx) | [repo](https://github.com/PatriotRossii/assembly_laboratories_5) |
+| 6 | Целочисленные арифметические операции смешанных типов данных | [docx](semester_01/laboratory_6.docx) | [repo](https://github.com/PatriotRossii/assembly_laboratories_6) |
